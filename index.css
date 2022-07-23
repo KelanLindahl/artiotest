@@ -1,0 +1,8 @@
+body{
+    background-image: url("/logonotext.png");
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-repeat: no-repeat;
+}
